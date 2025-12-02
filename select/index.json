@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "カルト",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-02T08:01:30.417799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザ・パーフェクト・カルト",
+      "artist": "Deathstars",
+      "has_synced": true,
+      "path": "select/01_ザ・パーフェクト・カルト_Deathstars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カルト",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_カルト_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕空ア・ラ・カルト",
+      "artist": "佐藤聡美",
+      "has_synced": false,
+      "path": "select/03_夕空ア・ラ・カルト_佐藤聡美.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕空ア・ラ・カルト",
+      "artist": "田井中律(CV:佐藤聡美)",
+      "has_synced": false,
+      "path": "select/04_夕空ア・ラ・カルト_田井中律(CV_佐藤聡美).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夕空ア・ラ・カルト",
+      "artist": "田井中律",
+      "has_synced": false,
+      "path": "select/05_夕空ア・ラ・カルト_田井中律.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夕空ア・ラ・カルト",
+      "artist": "田井中律 (佐藤聡美)",
+      "has_synced": false,
+      "path": "select/06_夕空ア・ラ・カルト_田井中律_(佐藤聡美).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カルト",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/07_カルト_Reol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カルト",
+      "artist": "UPLIFT SPICE",
+      "has_synced": true,
+      "path": "select/08_カルト_UPLIFT_SPICE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カルト",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_カルト_Tele.txt"
+    }
+  ]
+}
